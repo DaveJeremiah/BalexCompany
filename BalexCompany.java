@@ -6,7 +6,7 @@ package com.mycompany.balexcompany;
 
 /**
  *
- * @author USER
+ * @author Jeremiah and group
  */
 public class BalexCompany {
 
